@@ -4,6 +4,5 @@ return{
    "JailBreak_Unpatched",
    "PrisonLife_Unpatched",
    "VehicleSimulator_Unpatched",
-   "TappingSimulator_Unpatched",
-   "Test_Unpatched"
+   "TappingSimulator_Patched"
 }
