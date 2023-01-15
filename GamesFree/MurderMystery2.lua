@@ -14,6 +14,8 @@
 ░░░╚═╝░░░░╚════╝░╚═╝░░░░░
 ]]
 
+--Bye skids
+
 -- // Protected by luaGuard - Script ID 15185
 
 -- This file was generated using Luraph Obfuscator v13.6.3
