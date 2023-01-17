@@ -18,7 +18,7 @@
 ((( Introvert )))
 
 script:
-local teleport = loadstring(game:HttpGet(""))()
+local teleport = loadstring(game:HttpGet("https://raw.githubusercontent.com/mcletshacks/ArgonHubV2/main/Free%20scripts%20for%20users/JailBreak_tp_Bypass.lua"))()
 
 --Tp Example
 teleport(CFrame.new(150, 18, 1373))
