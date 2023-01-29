@@ -1,6 +1,7 @@
 return{
    "ERLC_Unpatched",
    "Arsenal_Unpatched",
+   "WildWest_Unpatched",
    "JailBreak_Unpatched",
    "PrisonLife_Unpatched",
    "VehicleSimulator_Unpatched",
