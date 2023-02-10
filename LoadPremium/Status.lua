@@ -1,3 +1,4 @@
 return{
-   "ERLC_Unpatched"
+   "ERLC_Unpatched",
+   "Phantom_Unpatched"
 }
