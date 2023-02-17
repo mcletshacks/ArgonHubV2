@@ -1,1 +1,2 @@
 --xd
+print("cmd")
